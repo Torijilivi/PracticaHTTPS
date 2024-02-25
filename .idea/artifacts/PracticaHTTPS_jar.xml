@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PracticaHTTPS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PracticaHTTPS_jar</output-path>
+    <root id="archive" name="PracticaHTTPS.jar">
+      <element id="module-output" name="PracticaHTTPS" />
+    </root>
+  </artifact>
+</component>
